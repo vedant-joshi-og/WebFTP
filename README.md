@@ -1,4 +1,4 @@
-# WebFTP Client
+<img width="1584" height="396" alt="WebFTP" src="https://github.com/user-attachments/assets/68effbe9-c7c7-42f8-821f-c2e45553832f" />
 
 A modern browser-based FTP client that allows users to connect to FTP servers, browse directories, upload and download files, and manage remote file systems directly from a web interface.
 
@@ -14,8 +14,8 @@ This application is ideal for developers, system administrators, and users who w
 
 <table>
     <tr>
-        <td><img src="" alt="img1"/></td>
-        <td><img src="" alt="img2"/></td>
+        <td><img width="1920" height="1080" alt="im1" src="https://github.com/user-attachments/assets/486890fb-beba-41bf-bab0-1f92d3c4c878" /></td>
+        <td><img width="1920" height="1080" alt="img2" src="https://github.com/user-attachments/assets/40efda0a-3e3c-4d4c-8822-9bd8cb532bff" /></td>
     </tr>
 </table>
 
@@ -29,8 +29,6 @@ This application is ideal for developers, system administrators, and users who w
 - Create directories
 - Rename files and folders
 - Responsive user interface
-- **Mobile-responsive design** (phones, tablets, desktop)
-- **Touch-optimized controls** for mobile devices
 - Lightweight and fast performance
 - Simple and intuitive navigation (KeyBindings)
 
@@ -38,8 +36,7 @@ This application is ideal for developers, system administrators, and users who w
 
 1. Clone Repo
 2. `npm install`
-3. `npm run build:frontend`
-4. Running the Application
+3. Running the Application
 
 #### Terminal 1 - Backend Server (FTP API)
 ```bash
